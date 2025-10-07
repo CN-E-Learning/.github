@@ -1,1 +1,1 @@
-# .github
+这是 CN-E-Learning 组织的一个特殊仓库，`profile/README.md` 将出现在该组织资料中。
